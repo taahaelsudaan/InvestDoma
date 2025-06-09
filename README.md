@@ -1,9 +1,10 @@
 # InvestDoma
 Приложения для инвестиций в недвижимость. Уже в AppStore!
-![01](https://github.com/user-attachments/assets/293217b8-d54e-4740-8ca6-cd8a65557cc6)
-![02](https://github.com/user-attachments/assets/d47f19aa-e940-4754-ba49-b26d9f52b055)
-![03](https://github.com/user-attachments/assets/a413729b-76ea-42c9-948f-4f6b7aa5cd26)
-![04](https://github.com/user-attachments/assets/3858fba6-f553-4b10-b647-500031b6db00)
+
+<img src="https://github.com/user-attachments/assets/293217b8-d54e-4740-8ca6-cd8a65557cc6" width="200">
+<img src="https://github.com/user-attachments/assets/d47f19aa-e940-4754-ba49-b26d9f52b055" width="200">
+<img src="https://github.com/user-attachments/assets/a413729b-76ea-42c9-948f-4f6b7aa5cd26" width="200">
+<img src="https://github.com/user-attachments/assets/3858fba6-f553-4b10-b647-500031b6db00" width="200">
 
 Ищете эксклюзивную недвижимость в Москве? Наше приложение — идеальный инструмент для тех, кто хочет купить премиальную квартиру или апартаменты.
 
